@@ -5,7 +5,7 @@ public class Adhar
     public static void main(String args[])
     {
         Scanner sc =  new Scanner(System.in);
-        System.out.println("Enter the Name: ");
+        System.out.println("Enter the Name: ");// This is written to check the branch
         String name=sc.next();
         System.out.println("Enter the Age: ");
         int age=sc.nextInt();
